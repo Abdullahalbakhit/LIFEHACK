@@ -1,0 +1,615 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 52;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		6711FE082542572500478AD6 /* 26901-cooking.json in Resources */ = {isa = PBXBuildFile; fileRef = 6711FE072542572500478AD6 /* 26901-cooking.json */; };
+		6711FE0B2542575400478AD6 /* 30145-working-women-in-home.json in Resources */ = {isa = PBXBuildFile; fileRef = 6711FE0A2542575400478AD6 /* 30145-working-women-in-home.json */; };
+		6711FE0F2542579300478AD6 /* 27600-balcony-leisure.json in Resources */ = {isa = PBXBuildFile; fileRef = 6711FE0E2542579300478AD6 /* 27600-balcony-leisure.json */; };
+		6711FE12254257AB00478AD6 /* 34766-modern-technologies.json in Resources */ = {isa = PBXBuildFile; fileRef = 6711FE11254257AB00478AD6 /* 34766-modern-technologies.json */; };
+		6711FE15254257C800478AD6 /* 25026-clothes-app-buying-tutorial.json in Resources */ = {isa = PBXBuildFile; fileRef = 6711FE14254257C800478AD6 /* 25026-clothes-app-buying-tutorial.json */; };
+		6711FE18254257D700478AD6 /* 14122-present.json in Resources */ = {isa = PBXBuildFile; fileRef = 6711FE17254257D700478AD6 /* 14122-present.json */; };
+		6711FE1B2542580D00478AD6 /* 14911-amazing-submit-button.json in Resources */ = {isa = PBXBuildFile; fileRef = 6711FE1A2542580D00478AD6 /* 14911-amazing-submit-button.json */; };
+		6711FE1E2542585100478AD6 /* 35692-check-blue.json in Resources */ = {isa = PBXBuildFile; fileRef = 6711FE1D2542585100478AD6 /* 35692-check-blue.json */; };
+		6711FE212542586C00478AD6 /* 29553-adverting-concept.json in Resources */ = {isa = PBXBuildFile; fileRef = 6711FE202542586C00478AD6 /* 29553-adverting-concept.json */; };
+		6711FE242542588200478AD6 /* 26540-blogging-writing-typing.json in Resources */ = {isa = PBXBuildFile; fileRef = 6711FE232542588200478AD6 /* 26540-blogging-writing-typing.json */; };
+		6711FE2E254258F800478AD6 /* 16546-waiting-for-ideas.json in Resources */ = {isa = PBXBuildFile; fileRef = 6711FE2D254258F800478AD6 /* 16546-waiting-for-ideas.json */; };
+		6711FE312542593F00478AD6 /* 31662-e-mail-02.json in Resources */ = {isa = PBXBuildFile; fileRef = 6711FE302542593F00478AD6 /* 31662-e-mail-02.json */; };
+		6711FE342542596600478AD6 /* 29780-users-and-vr-loop.json in Resources */ = {isa = PBXBuildFile; fileRef = 6711FE332542596600478AD6 /* 29780-users-and-vr-loop.json */; };
+		6711FE372542598100478AD6 /* 30816-mail-send-animation.json in Resources */ = {isa = PBXBuildFile; fileRef = 6711FE362542598100478AD6 /* 30816-mail-send-animation.json */; };
+		6711FE3A254259A100478AD6 /* 16555-firery-passion.json in Resources */ = {isa = PBXBuildFile; fileRef = 6711FE39254259A100478AD6 /* 16555-firery-passion.json */; };
+		6751925D253AB51E00907063 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6751925C253AB51E00907063 /* AppDelegate.swift */; };
+		6751925F253AB51E00907063 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6751925E253AB51E00907063 /* SceneDelegate.swift */; };
+		67519263253AB51F00907063 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67519262253AB51F00907063 /* Assets.xcassets */; };
+		67519266253AB51F00907063 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 67519265253AB51F00907063 /* Preview Assets.xcassets */; };
+		67519269253AB51F00907063 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 67519267253AB51F00907063 /* LaunchScreen.storyboard */; };
+		67519285253AB5E400907063 /* SwiftUIView11.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67519284253AB5E400907063 /* SwiftUIView11.swift */; };
+		67519288253AB5E900907063 /* viewPOST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67519287253AB5E900907063 /* viewPOST.swift */; };
+		6751928B253AB5EE00907063 /* addwayswiftui.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6751928A253AB5EE00907063 /* addwayswiftui.swift */; };
+		6751928E253AB5F800907063 /* TOPTopicsSwiftUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6751928D253AB5F800907063 /* TOPTopicsSwiftUIView.swift */; };
+		67519297253AB61F00907063 /* FIRST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67519296253AB61F00907063 /* FIRST.swift */; };
+		6755D4F025426B9200AE160F /* 33420-teamwork-1.json in Resources */ = {isa = PBXBuildFile; fileRef = 6755D4EF25426B9200AE160F /* 33420-teamwork-1.json */; };
+		6758B76725416ECE0059E502 /* onboardi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6758B76625416ECE0059E502 /* onboardi.swift */; };
+		675C0090253E1B420075B8C9 /* 33635-worker-have-an-idea.json in Resources */ = {isa = PBXBuildFile; fileRef = 675C008F253E1B420075B8C9 /* 33635-worker-have-an-idea.json */; };
+		676D62C725440B1300CB2C52 /* 35318-social-media-animation (1).json in Resources */ = {isa = PBXBuildFile; fileRef = 676D62C625440B1300CB2C52 /* 35318-social-media-animation (1).json */; };
+		678E8171253DD091004DB183 /* lottieanimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 678E8170253DD091004DB183 /* lottieanimation.swift */; };
+		678E81A4253DE119004DB183 /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = 678E81A3253DE119004DB183 /* Lottie */; };
+		678E81E5253DF63A004DB183 /* TwitterHeartButton.json in Resources */ = {isa = PBXBuildFile; fileRef = 678E81AC253DF63A004DB183 /* TwitterHeartButton.json */; };
+		67905DA9254409850074849D /* 34804-think-outside-the-box.json in Resources */ = {isa = PBXBuildFile; fileRef = 67905DA8254409850074849D /* 34804-think-outside-the-box.json */; };
+		6796E9C125400227000BC681 /* suggestionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6796E9C025400227000BC681 /* suggestionsView.swift */; };
+		67A33D2C253FFBC3006894EB /* 21332-teamwork.json in Resources */ = {isa = PBXBuildFile; fileRef = 67A33D2B253FFBC3006894EB /* 21332-teamwork.json */; };
+		67C3CB9D253F3BBB009A22F8 /* userpageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C3CB9C253F3BBB009A22F8 /* userpageView.swift */; };
+		67C605032543A65600AE021F /* 17054-smartsharp-animations-volume-1.json in Resources */ = {isa = PBXBuildFile; fileRef = 67C605022543A65600AE021F /* 17054-smartsharp-animations-volume-1.json */; };
+		67C605062543A9FC00AE021F /* 30173-welcome-screen (1).json in Resources */ = {isa = PBXBuildFile; fileRef = 67C605052543A9FC00AE021F /* 30173-welcome-screen (1).json */; };
+		67CCCE87254464FB00AAFB15 /* 28573-animation.json in Resources */ = {isa = PBXBuildFile; fileRef = 67CCCE86254464FB00AAFB15 /* 28573-animation.json */; };
+		67F40D35253D5A7400EB6B00 /* HOMECOLLECATIOn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67F40D34253D5A7400EB6B00 /* HOMECOLLECATIOn.swift */; };
+		67F40D57253D611400EB6B00 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 67F40D56253D611400EB6B00 /* GoogleService-Info.plist */; };
+		67F836F02543AAC000D980D0 /* 21321-mobile-marketing.json in Resources */ = {isa = PBXBuildFile; fileRef = 67F836EF2543AAC000D980D0 /* 21321-mobile-marketing.json */; };
+		FA5AF7E33A00BA5E9F6EF7A4 /* Pods_HACKLIFE.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF00D9C2FB349D906CBBED1A /* Pods_HACKLIFE.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		5A1E6DF4F53AEE5EF96617C8 /* Pods-HACKLIFE.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HACKLIFE.release.xcconfig"; path = "Target Support Files/Pods-HACKLIFE/Pods-HACKLIFE.release.xcconfig"; sourceTree = "<group>"; };
+		6711FE072542572500478AD6 /* 26901-cooking.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "26901-cooking.json"; sourceTree = "<group>"; };
+		6711FE0A2542575400478AD6 /* 30145-working-women-in-home.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "30145-working-women-in-home.json"; sourceTree = "<group>"; };
+		6711FE0E2542579300478AD6 /* 27600-balcony-leisure.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "27600-balcony-leisure.json"; sourceTree = "<group>"; };
+		6711FE11254257AB00478AD6 /* 34766-modern-technologies.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "34766-modern-technologies.json"; sourceTree = "<group>"; };
+		6711FE14254257C800478AD6 /* 25026-clothes-app-buying-tutorial.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "25026-clothes-app-buying-tutorial.json"; sourceTree = "<group>"; };
+		6711FE17254257D700478AD6 /* 14122-present.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "14122-present.json"; sourceTree = "<group>"; };
+		6711FE1A2542580D00478AD6 /* 14911-amazing-submit-button.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "14911-amazing-submit-button.json"; sourceTree = "<group>"; };
+		6711FE1D2542585100478AD6 /* 35692-check-blue.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "35692-check-blue.json"; sourceTree = "<group>"; };
+		6711FE202542586C00478AD6 /* 29553-adverting-concept.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "29553-adverting-concept.json"; sourceTree = "<group>"; };
+		6711FE232542588200478AD6 /* 26540-blogging-writing-typing.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "26540-blogging-writing-typing.json"; sourceTree = "<group>"; };
+		6711FE2D254258F800478AD6 /* 16546-waiting-for-ideas.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "16546-waiting-for-ideas.json"; sourceTree = "<group>"; };
+		6711FE302542593F00478AD6 /* 31662-e-mail-02.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "31662-e-mail-02.json"; sourceTree = "<group>"; };
+		6711FE332542596600478AD6 /* 29780-users-and-vr-loop.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "29780-users-and-vr-loop.json"; sourceTree = "<group>"; };
+		6711FE362542598100478AD6 /* 30816-mail-send-animation.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "30816-mail-send-animation.json"; sourceTree = "<group>"; };
+		6711FE39254259A100478AD6 /* 16555-firery-passion.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "16555-firery-passion.json"; sourceTree = "<group>"; };
+		67519259253AB51E00907063 /* HACKLIFE.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HACKLIFE.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		6751925C253AB51E00907063 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		6751925E253AB51E00907063 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		67519262253AB51F00907063 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		67519265253AB51F00907063 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		67519268253AB51F00907063 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		6751926A253AB51F00907063 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		67519284253AB5E400907063 /* SwiftUIView11.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftUIView11.swift; sourceTree = "<group>"; };
+		67519287253AB5E900907063 /* viewPOST.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = viewPOST.swift; sourceTree = "<group>"; };
+		6751928A253AB5EE00907063 /* addwayswiftui.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = addwayswiftui.swift; sourceTree = "<group>"; };
+		6751928D253AB5F800907063 /* TOPTopicsSwiftUIView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TOPTopicsSwiftUIView.swift; sourceTree = "<group>"; };
+		67519296253AB61F00907063 /* FIRST.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FIRST.swift; sourceTree = "<group>"; };
+		6755D4EF25426B9200AE160F /* 33420-teamwork-1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "33420-teamwork-1.json"; sourceTree = "<group>"; };
+		6758B76625416ECE0059E502 /* onboardi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = onboardi.swift; sourceTree = "<group>"; };
+		675C008F253E1B420075B8C9 /* 33635-worker-have-an-idea.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "33635-worker-have-an-idea.json"; path = "../../../../Downloads/33635-worker-have-an-idea.json"; sourceTree = "<group>"; };
+		676D62C625440B1300CB2C52 /* 35318-social-media-animation (1).json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "35318-social-media-animation (1).json"; sourceTree = "<group>"; };
+		678E8170253DD091004DB183 /* lottieanimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lottieanimation.swift; sourceTree = "<group>"; };
+		678E81AC253DF63A004DB183 /* TwitterHeartButton.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = TwitterHeartButton.json; sourceTree = "<group>"; };
+		67905DA8254409850074849D /* 34804-think-outside-the-box.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "34804-think-outside-the-box.json"; sourceTree = "<group>"; };
+		6796E9C025400227000BC681 /* suggestionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = suggestionsView.swift; sourceTree = "<group>"; };
+		67A33D2B253FFBC3006894EB /* 21332-teamwork.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "21332-teamwork.json"; path = "../../../../Downloads/21332-teamwork.json"; sourceTree = "<group>"; };
+		67C3CB9C253F3BBB009A22F8 /* userpageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = userpageView.swift; sourceTree = "<group>"; };
+		67C605022543A65600AE021F /* 17054-smartsharp-animations-volume-1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "17054-smartsharp-animations-volume-1.json"; sourceTree = "<group>"; };
+		67C605052543A9FC00AE021F /* 30173-welcome-screen (1).json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "30173-welcome-screen (1).json"; sourceTree = "<group>"; };
+		67CCCE86254464FB00AAFB15 /* 28573-animation.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "28573-animation.json"; sourceTree = "<group>"; };
+		67F40D34253D5A7400EB6B00 /* HOMECOLLECATIOn.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HOMECOLLECATIOn.swift; sourceTree = "<group>"; };
+		67F40D56253D611400EB6B00 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
+		67F836EF2543AAC000D980D0 /* 21321-mobile-marketing.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "21321-mobile-marketing.json"; sourceTree = "<group>"; };
+		EF00D9C2FB349D906CBBED1A /* Pods_HACKLIFE.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_HACKLIFE.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F71CB88CD79E88EF92A9480C /* Pods-HACKLIFE.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-HACKLIFE.debug.xcconfig"; path = "Target Support Files/Pods-HACKLIFE/Pods-HACKLIFE.debug.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		67519256253AB51E00907063 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA5AF7E33A00BA5E9F6EF7A4 /* Pods_HACKLIFE.framework in Frameworks */,
+				678E81A4253DE119004DB183 /* Lottie in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		67519250253AB51E00907063 = {
+			isa = PBXGroup;
+			children = (
+				6751925B253AB51E00907063 /* HACKLIFE */,
+				6751925A253AB51E00907063 /* Products */,
+				7FD9491624FF3D512B9B1D15 /* Pods */,
+				A6482142BB1C3659C24F32CD /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		6751925A253AB51E00907063 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				67519259253AB51E00907063 /* HACKLIFE.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		6751925B253AB51E00907063 /* HACKLIFE */ = {
+			isa = PBXGroup;
+			children = (
+				678E81A7253DF63A004DB183 /* TestAnimations */,
+				67CCCE86254464FB00AAFB15 /* 28573-animation.json */,
+				6751925C253AB51E00907063 /* AppDelegate.swift */,
+				6751925E253AB51E00907063 /* SceneDelegate.swift */,
+				67519284253AB5E400907063 /* SwiftUIView11.swift */,
+				67C3CB9C253F3BBB009A22F8 /* userpageView.swift */,
+				6796E9C025400227000BC681 /* suggestionsView.swift */,
+				67519287253AB5E900907063 /* viewPOST.swift */,
+				67F40D56253D611400EB6B00 /* GoogleService-Info.plist */,
+				678E8170253DD091004DB183 /* lottieanimation.swift */,
+				6751928A253AB5EE00907063 /* addwayswiftui.swift */,
+				6751928D253AB5F800907063 /* TOPTopicsSwiftUIView.swift */,
+				6758B76625416ECE0059E502 /* onboardi.swift */,
+				67519296253AB61F00907063 /* FIRST.swift */,
+				67F40D34253D5A7400EB6B00 /* HOMECOLLECATIOn.swift */,
+				67519262253AB51F00907063 /* Assets.xcassets */,
+				67519267253AB51F00907063 /* LaunchScreen.storyboard */,
+				6751926A253AB51F00907063 /* Info.plist */,
+				67519264253AB51F00907063 /* Preview Content */,
+			);
+			path = HACKLIFE;
+			sourceTree = "<group>";
+		};
+		67519264253AB51F00907063 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				67519265253AB51F00907063 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		678E81A7253DF63A004DB183 /* TestAnimations */ = {
+			isa = PBXGroup;
+			children = (
+				676D62C625440B1300CB2C52 /* 35318-social-media-animation (1).json */,
+				67905DA8254409850074849D /* 34804-think-outside-the-box.json */,
+				67F836EF2543AAC000D980D0 /* 21321-mobile-marketing.json */,
+				67C605052543A9FC00AE021F /* 30173-welcome-screen (1).json */,
+				67C605022543A65600AE021F /* 17054-smartsharp-animations-volume-1.json */,
+				6755D4EF25426B9200AE160F /* 33420-teamwork-1.json */,
+				6711FE362542598100478AD6 /* 30816-mail-send-animation.json */,
+				6711FE2D254258F800478AD6 /* 16546-waiting-for-ideas.json */,
+				6711FE232542588200478AD6 /* 26540-blogging-writing-typing.json */,
+				6711FE202542586C00478AD6 /* 29553-adverting-concept.json */,
+				6711FE1D2542585100478AD6 /* 35692-check-blue.json */,
+				6711FE1A2542580D00478AD6 /* 14911-amazing-submit-button.json */,
+				6711FE17254257D700478AD6 /* 14122-present.json */,
+				6711FE14254257C800478AD6 /* 25026-clothes-app-buying-tutorial.json */,
+				6711FE11254257AB00478AD6 /* 34766-modern-technologies.json */,
+				6711FE0E2542579300478AD6 /* 27600-balcony-leisure.json */,
+				6711FE0A2542575400478AD6 /* 30145-working-women-in-home.json */,
+				6711FE072542572500478AD6 /* 26901-cooking.json */,
+				67A33D2B253FFBC3006894EB /* 21332-teamwork.json */,
+				675C008F253E1B420075B8C9 /* 33635-worker-have-an-idea.json */,
+				678E81AC253DF63A004DB183 /* TwitterHeartButton.json */,
+				6711FE332542596600478AD6 /* 29780-users-and-vr-loop.json */,
+				6711FE39254259A100478AD6 /* 16555-firery-passion.json */,
+				6711FE302542593F00478AD6 /* 31662-e-mail-02.json */,
+			);
+			path = TestAnimations;
+			sourceTree = "<group>";
+		};
+		7FD9491624FF3D512B9B1D15 /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				F71CB88CD79E88EF92A9480C /* Pods-HACKLIFE.debug.xcconfig */,
+				5A1E6DF4F53AEE5EF96617C8 /* Pods-HACKLIFE.release.xcconfig */,
+			);
+			path = Pods;
+			sourceTree = "<group>";
+		};
+		A6482142BB1C3659C24F32CD /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				EF00D9C2FB349D906CBBED1A /* Pods_HACKLIFE.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		67519258253AB51E00907063 /* HACKLIFE */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 6751926D253AB51F00907063 /* Build configuration list for PBXNativeTarget "HACKLIFE" */;
+			buildPhases = (
+				21177FA65CA494A109705C63 /* [CP] Check Pods Manifest.lock */,
+				67519255253AB51E00907063 /* Sources */,
+				67519256253AB51E00907063 /* Frameworks */,
+				67519257253AB51E00907063 /* Resources */,
+				C0489294D4C13648D1332602 /* [CP] Embed Pods Frameworks */,
+				D9FAF1F429A23B5CF3E6DEE1 /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = HACKLIFE;
+			packageProductDependencies = (
+				678E81A3253DE119004DB183 /* Lottie */,
+			);
+			productName = HACKLIFE;
+			productReference = 67519259253AB51E00907063 /* HACKLIFE.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		67519251253AB51E00907063 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1200;
+				LastUpgradeCheck = 1200;
+				TargetAttributes = {
+					67519258253AB51E00907063 = {
+						CreatedOnToolsVersion = 12.0.1;
+					};
+				};
+			};
+			buildConfigurationList = 67519254253AB51E00907063 /* Build configuration list for PBXProject "HACKLIFE" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 67519250253AB51E00907063;
+			packageReferences = (
+				678E81A2253DE119004DB183 /* XCRemoteSwiftPackageReference "lottie-ios" */,
+			);
+			productRefGroup = 6751925A253AB51E00907063 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				67519258253AB51E00907063 /* HACKLIFE */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		67519257253AB51E00907063 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6711FE18254257D700478AD6 /* 14122-present.json in Resources */,
+				67A33D2C253FFBC3006894EB /* 21332-teamwork.json in Resources */,
+				67C605062543A9FC00AE021F /* 30173-welcome-screen (1).json in Resources */,
+				6711FE082542572500478AD6 /* 26901-cooking.json in Resources */,
+				6711FE1B2542580D00478AD6 /* 14911-amazing-submit-button.json in Resources */,
+				67C605032543A65600AE021F /* 17054-smartsharp-animations-volume-1.json in Resources */,
+				67F40D57253D611400EB6B00 /* GoogleService-Info.plist in Resources */,
+				67519269253AB51F00907063 /* LaunchScreen.storyboard in Resources */,
+				6711FE242542588200478AD6 /* 26540-blogging-writing-typing.json in Resources */,
+				676D62C725440B1300CB2C52 /* 35318-social-media-animation (1).json in Resources */,
+				6711FE2E254258F800478AD6 /* 16546-waiting-for-ideas.json in Resources */,
+				6711FE1E2542585100478AD6 /* 35692-check-blue.json in Resources */,
+				67519266253AB51F00907063 /* Preview Assets.xcassets in Resources */,
+				67519263253AB51F00907063 /* Assets.xcassets in Resources */,
+				6711FE372542598100478AD6 /* 30816-mail-send-animation.json in Resources */,
+				6711FE342542596600478AD6 /* 29780-users-and-vr-loop.json in Resources */,
+				6711FE15254257C800478AD6 /* 25026-clothes-app-buying-tutorial.json in Resources */,
+				6755D4F025426B9200AE160F /* 33420-teamwork-1.json in Resources */,
+				6711FE12254257AB00478AD6 /* 34766-modern-technologies.json in Resources */,
+				6711FE0B2542575400478AD6 /* 30145-working-women-in-home.json in Resources */,
+				67905DA9254409850074849D /* 34804-think-outside-the-box.json in Resources */,
+				6711FE212542586C00478AD6 /* 29553-adverting-concept.json in Resources */,
+				67CCCE87254464FB00AAFB15 /* 28573-animation.json in Resources */,
+				67F836F02543AAC000D980D0 /* 21321-mobile-marketing.json in Resources */,
+				6711FE0F2542579300478AD6 /* 27600-balcony-leisure.json in Resources */,
+				675C0090253E1B420075B8C9 /* 33635-worker-have-an-idea.json in Resources */,
+				6711FE312542593F00478AD6 /* 31662-e-mail-02.json in Resources */,
+				678E81E5253DF63A004DB183 /* TwitterHeartButton.json in Resources */,
+				6711FE3A254259A100478AD6 /* 16555-firery-passion.json in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		21177FA65CA494A109705C63 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-HACKLIFE-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		C0489294D4C13648D1332602 /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-HACKLIFE/Pods-HACKLIFE-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-HACKLIFE/Pods-HACKLIFE-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-HACKLIFE/Pods-HACKLIFE-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		D9FAF1F429A23B5CF3E6DEE1 /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-HACKLIFE/Pods-HACKLIFE-resources-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Copy Pods Resources";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-HACKLIFE/Pods-HACKLIFE-resources-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-HACKLIFE/Pods-HACKLIFE-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		67519255253AB51E00907063 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				6758B76725416ECE0059E502 /* onboardi.swift in Sources */,
+				6751925D253AB51E00907063 /* AppDelegate.swift in Sources */,
+				6751925F253AB51E00907063 /* SceneDelegate.swift in Sources */,
+				67519297253AB61F00907063 /* FIRST.swift in Sources */,
+				67519285253AB5E400907063 /* SwiftUIView11.swift in Sources */,
+				67C3CB9D253F3BBB009A22F8 /* userpageView.swift in Sources */,
+				6751928E253AB5F800907063 /* TOPTopicsSwiftUIView.swift in Sources */,
+				6796E9C125400227000BC681 /* suggestionsView.swift in Sources */,
+				67519288253AB5E900907063 /* viewPOST.swift in Sources */,
+				67F40D35253D5A7400EB6B00 /* HOMECOLLECATIOn.swift in Sources */,
+				678E8171253DD091004DB183 /* lottieanimation.swift in Sources */,
+				6751928B253AB5EE00907063 /* addwayswiftui.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		67519267253AB51F00907063 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				67519268253AB51F00907063 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		6751926B253AB51F00907063 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		6751926C253AB51F00907063 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		6751926E253AB51F00907063 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = F71CB88CD79E88EF92A9480C /* Pods-HACKLIFE.debug.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = NO;
+				DEVELOPMENT_ASSET_PATHS = "\"HACKLIFE/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = HACKLIFE/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.fms.HACKLIFE;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		6751926F253AB51F00907063 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 5A1E6DF4F53AEE5EF96617C8 /* Pods-HACKLIFE.release.xcconfig */;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEAD_CODE_STRIPPING = NO;
+				DEVELOPMENT_ASSET_PATHS = "\"HACKLIFE/Preview Content\"";
+				ENABLE_PREVIEWS = YES;
+				INFOPLIST_FILE = HACKLIFE/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = com.fms.HACKLIFE;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		67519254253AB51E00907063 /* Build configuration list for PBXProject "HACKLIFE" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6751926B253AB51F00907063 /* Debug */,
+				6751926C253AB51F00907063 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		6751926D253AB51F00907063 /* Build configuration list for PBXNativeTarget "HACKLIFE" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				6751926E253AB51F00907063 /* Debug */,
+				6751926F253AB51F00907063 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		678E81A2253DE119004DB183 /* XCRemoteSwiftPackageReference "lottie-ios" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/airbnb/lottie-ios.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 3.1.8;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		678E81A3253DE119004DB183 /* Lottie */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 678E81A2253DE119004DB183 /* XCRemoteSwiftPackageReference "lottie-ios" */;
+			productName = Lottie;
+		};
+/* End XCSwiftPackageProductDependency section */
+	};
+	rootObject = 67519251253AB51E00907063 /* Project object */;
+}

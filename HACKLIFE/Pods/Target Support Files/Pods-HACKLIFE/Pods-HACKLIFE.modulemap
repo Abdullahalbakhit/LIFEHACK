@@ -1,0 +1,6 @@
+framework module Pods_HACKLIFE {
+  umbrella header "Pods-HACKLIFE-umbrella.h"
+
+  export *
+  module * { export * }
+}
