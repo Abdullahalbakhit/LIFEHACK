@@ -34,14 +34,12 @@
 		67519297253AB61F00907063 /* FIRST.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67519296253AB61F00907063 /* FIRST.swift */; };
 		6755D4F025426B9200AE160F /* 33420-teamwork-1.json in Resources */ = {isa = PBXBuildFile; fileRef = 6755D4EF25426B9200AE160F /* 33420-teamwork-1.json */; };
 		6758B76725416ECE0059E502 /* onboardi.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6758B76625416ECE0059E502 /* onboardi.swift */; };
-		675C0090253E1B420075B8C9 /* 33635-worker-have-an-idea.json in Resources */ = {isa = PBXBuildFile; fileRef = 675C008F253E1B420075B8C9 /* 33635-worker-have-an-idea.json */; };
 		676D62C725440B1300CB2C52 /* 35318-social-media-animation (1).json in Resources */ = {isa = PBXBuildFile; fileRef = 676D62C625440B1300CB2C52 /* 35318-social-media-animation (1).json */; };
 		678E8171253DD091004DB183 /* lottieanimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 678E8170253DD091004DB183 /* lottieanimation.swift */; };
 		678E81A4253DE119004DB183 /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = 678E81A3253DE119004DB183 /* Lottie */; };
 		678E81E5253DF63A004DB183 /* TwitterHeartButton.json in Resources */ = {isa = PBXBuildFile; fileRef = 678E81AC253DF63A004DB183 /* TwitterHeartButton.json */; };
 		67905DA9254409850074849D /* 34804-think-outside-the-box.json in Resources */ = {isa = PBXBuildFile; fileRef = 67905DA8254409850074849D /* 34804-think-outside-the-box.json */; };
 		6796E9C125400227000BC681 /* suggestionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6796E9C025400227000BC681 /* suggestionsView.swift */; };
-		67A33D2C253FFBC3006894EB /* 21332-teamwork.json in Resources */ = {isa = PBXBuildFile; fileRef = 67A33D2B253FFBC3006894EB /* 21332-teamwork.json */; };
 		67C3CB9D253F3BBB009A22F8 /* userpageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67C3CB9C253F3BBB009A22F8 /* userpageView.swift */; };
 		67C605032543A65600AE021F /* 17054-smartsharp-animations-volume-1.json in Resources */ = {isa = PBXBuildFile; fileRef = 67C605022543A65600AE021F /* 17054-smartsharp-animations-volume-1.json */; };
 		67C605062543A9FC00AE021F /* 30173-welcome-screen (1).json in Resources */ = {isa = PBXBuildFile; fileRef = 67C605052543A9FC00AE021F /* 30173-welcome-screen (1).json */; };
@@ -83,13 +81,11 @@
 		67519296253AB61F00907063 /* FIRST.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FIRST.swift; sourceTree = "<group>"; };
 		6755D4EF25426B9200AE160F /* 33420-teamwork-1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "33420-teamwork-1.json"; sourceTree = "<group>"; };
 		6758B76625416ECE0059E502 /* onboardi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = onboardi.swift; sourceTree = "<group>"; };
-		675C008F253E1B420075B8C9 /* 33635-worker-have-an-idea.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "33635-worker-have-an-idea.json"; path = "../../../../Downloads/33635-worker-have-an-idea.json"; sourceTree = "<group>"; };
 		676D62C625440B1300CB2C52 /* 35318-social-media-animation (1).json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "35318-social-media-animation (1).json"; sourceTree = "<group>"; };
 		678E8170253DD091004DB183 /* lottieanimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = lottieanimation.swift; sourceTree = "<group>"; };
 		678E81AC253DF63A004DB183 /* TwitterHeartButton.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = TwitterHeartButton.json; sourceTree = "<group>"; };
 		67905DA8254409850074849D /* 34804-think-outside-the-box.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "34804-think-outside-the-box.json"; sourceTree = "<group>"; };
 		6796E9C025400227000BC681 /* suggestionsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = suggestionsView.swift; sourceTree = "<group>"; };
-		67A33D2B253FFBC3006894EB /* 21332-teamwork.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; name = "21332-teamwork.json"; path = "../../../../Downloads/21332-teamwork.json"; sourceTree = "<group>"; };
 		67C3CB9C253F3BBB009A22F8 /* userpageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = userpageView.swift; sourceTree = "<group>"; };
 		67C605022543A65600AE021F /* 17054-smartsharp-animations-volume-1.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "17054-smartsharp-animations-volume-1.json"; sourceTree = "<group>"; };
 		67C605052543A9FC00AE021F /* 30173-welcome-screen (1).json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "30173-welcome-screen (1).json"; sourceTree = "<group>"; };
@@ -187,8 +183,6 @@
 				6711FE0E2542579300478AD6 /* 27600-balcony-leisure.json */,
 				6711FE0A2542575400478AD6 /* 30145-working-women-in-home.json */,
 				6711FE072542572500478AD6 /* 26901-cooking.json */,
-				67A33D2B253FFBC3006894EB /* 21332-teamwork.json */,
-				675C008F253E1B420075B8C9 /* 33635-worker-have-an-idea.json */,
 				678E81AC253DF63A004DB183 /* TwitterHeartButton.json */,
 				6711FE332542596600478AD6 /* 29780-users-and-vr-loop.json */,
 				6711FE39254259A100478AD6 /* 16555-firery-passion.json */,
@@ -281,7 +275,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				6711FE18254257D700478AD6 /* 14122-present.json in Resources */,
-				67A33D2C253FFBC3006894EB /* 21332-teamwork.json in Resources */,
 				67C605062543A9FC00AE021F /* 30173-welcome-screen (1).json in Resources */,
 				6711FE082542572500478AD6 /* 26901-cooking.json in Resources */,
 				6711FE1B2542580D00478AD6 /* 14911-amazing-submit-button.json in Resources */,
@@ -305,7 +298,6 @@
 				67CCCE87254464FB00AAFB15 /* 28573-animation.json in Resources */,
 				67F836F02543AAC000D980D0 /* 21321-mobile-marketing.json in Resources */,
 				6711FE0F2542579300478AD6 /* 27600-balcony-leisure.json in Resources */,
-				675C0090253E1B420075B8C9 /* 33635-worker-have-an-idea.json in Resources */,
 				6711FE312542593F00478AD6 /* 31662-e-mail-02.json in Resources */,
 				678E81E5253DF63A004DB183 /* TwitterHeartButton.json in Resources */,
 				6711FE3A254259A100478AD6 /* 16555-firery-passion.json in Resources */,
@@ -527,7 +519,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = F71CB88CD79E88EF92A9480C /* Pods-HACKLIFE.debug.xcconfig */;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEAD_CODE_STRIPPING = NO;
@@ -550,7 +541,6 @@
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 5A1E6DF4F53AEE5EF96617C8 /* Pods-HACKLIFE.release.xcconfig */;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEAD_CODE_STRIPPING = NO;
